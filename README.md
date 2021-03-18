@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nara Atthama</h1>
-<h2 align="center">just an ordinary student at Airlangga University <input type = "image" href="https://iconape.com/wp-content/png_logo_vector/universitas-airlangga-surabaya-logo.png" alt="airlangga logo" width="40" height="40"/> </h2>
+<h2 align="center">just an ordinary student at Airlangga University <img href="https://iconape.com/wp-content/png_logo_vector/universitas-airlangga-surabaya-logo.png" alt="airlangga logo" width="50%" height="50%"/> </h2>
 <h3 align="center">=== Robotics and AI engineering 2020 ===</h3>
 
 
