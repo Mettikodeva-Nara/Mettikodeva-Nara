@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nara Atthama</h1>
-<h2 align="center">just an ordinary student at Airlangga University</h2><img href="genap1980.elearning.unair.ac.id/pluginfile.php/1/theme_mb2cg/logo/1614660737/logounair-removebg-preview.png" alt="android" width="40" height="40"/> 
+<h2 align="center">just an ordinary student at Airlangga University <img href="genap1980.elearning.unair.ac.id/pluginfile.php/1/theme_mb2cg/logo/1614660737/logounair-removebg-preview.png" alt="airlangga logo" width="40" height="40"/> </h2>
 <h3 align="center">=== Robotics and AI engineering 2020 ===</h3>
 
 
